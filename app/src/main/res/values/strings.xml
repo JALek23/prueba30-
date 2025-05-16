@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TaskMaster v1.0</string>
+    <string name="welcome_message">¡Bienvenido a TaskMaster!</string>
+    <string name="start_button">Comenzar</string>
+
+    <string name="task_title">Título</string>
+    <string name="task_done">Completado</string>
+    <string name="priority">Prioridad</string>
+
+    <string name="task1">tarea</string>
+    <string name="task2">tarea</string>
+    <string name="task3">tarea</string>
+
+    <string name="rating_label">Dificultad</string>
+</resources>
